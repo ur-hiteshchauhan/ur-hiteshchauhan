@@ -70,6 +70,11 @@ A repo where I practice and apply Python concepts through small real-world tools
 More projects are on the way as I move deeper into NumPy, Pandas, and eventually machine learning.
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake.svg">
+</picture>
 
 ### 📊 GitHub Stats
 
@@ -84,12 +89,6 @@ More projects are on the way as I move deeper into NumPy, Pandas, and eventually
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake.svg">
-</picture>
-
 ### 📫 Let's Connect
 
 <div align="center">
