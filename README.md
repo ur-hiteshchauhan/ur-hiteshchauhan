@@ -10,14 +10,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-I'm a 2nd year B.Tech student specializing in Computer Science Engineering with a focus on Artificial Intelligence and Machine Learning. My core interest lies in software development, machine learning, and data science.
-
-I've built a solid foundation in **C** and **Python**, and I'm currently strengthening my data handling skills with **NumPy** and **Pandas** before moving into **Data Structures & Algorithms** in Python.
-
----
-
 ### 🎓 What I'm Studying (B.Tech CSE - AI & ML)
 
 As part of my degree, I'm building knowledge across these core areas:
@@ -29,18 +21,6 @@ As part of my degree, I'm building knowledge across these core areas:
 - **Machine Learning:** Supervised & Unsupervised Learning fundamentals (upcoming)
 - **Database Management Systems:** SQL fundamentals
 - **Core CS Subjects:** Operating Systems, Computer Networks, OOP concepts
-
----
-
-### ⚡ Currently Learning
-
-```
-[■■■■■■■■■■] Python - Solid
-[■■■■■■■■□□] NumPy - In Progress
-[■■■■■■□□□□] Pandas - In Progress
-[■■□□□□□□□□] DSA in Python - Starting Soon
-[■□□□□□□□□□] Machine Learning - Getting Started
-```
 
 ---
 
