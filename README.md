@@ -10,9 +10,9 @@
 
 ---
 
-### 🎓 What I'm Studying (B.Tech CSE - AI & ML)
+### 🎓 What I'm Studying 
 
-As part of my degree, I'm building knowledge across these core areas:
+I'm building knowledge across these core areas:
 
 - **Programming Foundations:** C, Python
 - **Data Structures & Algorithms:** Coming up next in my learning path
