@@ -24,6 +24,20 @@ I'm building knowledge across these core areas:
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ur-hiteshchauhan&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ur-hiteshchauhan&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ur-hiteshchauhan&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -56,17 +70,7 @@ More projects are on the way as I move deeper into NumPy, Pandas, and eventually
   <img alt="github-snake" src="https://raw.githubusercontent.com/ur-hiteshchauhan/ur-hiteshchauhan/output/github-snake.svg">
 </picture>
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ur-hiteshchauhan&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ur-hiteshchauhan&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ur-hiteshchauhan&theme=radical&hide_border=true)
-
-</div>
 ---
 ### 📫 Let's Connect
 
