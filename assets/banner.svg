@@ -1,0 +1,85 @@
+<svg viewBox="0 0 900 300" width="900" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hitesh Kumar, aspiring data analyst">
+  <style>
+    text{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}
+    @keyframes bl{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+    @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    @keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:.8}}
+    .eye{transform-box:fill-box;transform-origin:center;animation:bl 4.5s infinite}
+    .f1{animation:fl 4s ease-in-out infinite}
+    .f2{animation:fl 5s ease-in-out infinite .8s}
+    .f3{animation:fl 4.5s ease-in-out infinite 1.6s}
+    .t1{animation:in .8s ease-out both}
+    .t2{animation:in .8s ease-out .25s both}
+    .t3{animation:in .8s ease-out .5s both}
+    .t4{animation:in .8s ease-out .75s both}
+    .dot{animation:pulse 3s ease-in-out infinite}
+  </style>
+
+  <rect width="900" height="300" rx="16" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="16" fill="none" stroke="#30363D"/>
+
+  <circle class="dot" cx="60" cy="40" r="2" fill="#5DCAA5"/>
+  <circle class="dot" cx="300" cy="28" r="2" fill="#85B7EB" style="animation-delay:.6s"/>
+  <circle class="dot" cx="470" cy="60" r="2" fill="#AFA9EC" style="animation-delay:1.2s"/>
+  <circle class="dot" cx="90" cy="270" r="2" fill="#EF9F27" style="animation-delay:1.8s"/>
+  <circle class="dot" cx="430" cy="262" r="2" fill="#5DCAA5" style="animation-delay:2.4s"/>
+
+  <g class="t1">
+    <rect x="50" y="52" width="196" height="26" rx="13" fill="#0F6E56" fill-opacity=".35" stroke="#1D9E75"/>
+    <circle cx="68" cy="65" r="4" fill="#5DCAA5"/>
+    <text x="80" y="70" font-size="12" fill="#9FE1CB">Open to data analyst roles</text>
+  </g>
+
+  <text class="t2" x="50" y="135" font-size="46" font-weight="700" fill="#FFFFFF">Hitesh Kumar</text>
+  <text class="t3" x="50" y="170" font-size="22" font-weight="500" fill="#5DCAA5">Aspiring Data Analyst</text>
+  <text class="t3" x="50" y="196" font-size="14" fill="#8B949E">B.Tech CSE (AI &amp; ML)  |  GL Bajaj, Mathura  |  2029</text>
+
+  <g class="t4">
+    <rect x="50" y="218" width="84" height="30" rx="15" fill="#FAEEDA" stroke="#BA7517"/>
+    <text x="92" y="238" text-anchor="middle" font-size="13" font-weight="600" fill="#633806">Python</text>
+    <rect x="142" y="218" width="80" height="30" rx="15" fill="#E6F1FB" stroke="#185FA5"/>
+    <text x="182" y="238" text-anchor="middle" font-size="13" font-weight="600" fill="#0C447C">NumPy</text>
+    <rect x="230" y="218" width="86" height="30" rx="15" fill="#EEEDFE" stroke="#534AB7"/>
+    <text x="273" y="238" text-anchor="middle" font-size="13" font-weight="600" fill="#3C3489">Pandas</text>
+    <rect x="324" y="218" width="76" height="30" rx="15" fill="#EAF3DE" stroke="#3B6D11"/>
+    <text x="362" y="238" text-anchor="middle" font-size="13" font-weight="600" fill="#27500A">Excel</text>
+  </g>
+
+  <g transform="translate(540,4) scale(0.92)">
+    <circle cx="160" cy="165" r="145" fill="#1D9E75" fill-opacity=".22"/>
+    <path d="M62 300 C62 238 105 222 160 222 C215 222 258 238 258 300 Z" fill="#534AB7"/>
+    <path d="M138 222 L160 250 L182 222 Z" fill="#EEEDFE"/>
+    <rect x="147" y="196" width="26" height="32" rx="6" fill="#A8744B"/>
+    <circle cx="108" cy="168" r="10" fill="#C68E5F"/>
+    <circle cx="212" cy="168" r="10" fill="#C68E5F"/>
+    <ellipse cx="160" cy="162" rx="52" ry="58" fill="#C68E5F"/>
+    <path d="M107 158 C100 100 135 90 162 92 C195 90 222 106 213 158 C208 132 192 122 160 122 C128 122 113 132 107 158 Z" fill="#2C2C2A"/>
+    <path d="M128 148 L148 145" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M172 145 L192 148" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+    <circle class="eye" cx="139" cy="165" r="5" fill="#2C2C2A"/>
+    <circle class="eye" cx="181" cy="165" r="5" fill="#2C2C2A"/>
+    <path d="M160 168 L157 182 L164 182" fill="none" stroke="#A8744B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M142 194 Q160 208 178 194" fill="none" stroke="#2C2C2A" stroke-width="3" stroke-linecap="round"/>
+
+    <g class="f1">
+      <rect x="6" y="62" width="92" height="30" rx="15" fill="#FAEEDA" stroke="#BA7517"/>
+      <text x="52" y="82" text-anchor="middle" font-size="13" font-weight="600" fill="#633806">Python</text>
+    </g>
+    <g class="f2">
+      <rect x="0" y="146" width="90" height="30" rx="15" fill="#E6F1FB" stroke="#185FA5"/>
+      <text x="45" y="166" text-anchor="middle" font-size="13" font-weight="600" fill="#0C447C">Pandas</text>
+    </g>
+    <g class="f3">
+      <rect x="236" y="52" width="84" height="30" rx="15" fill="#EAF3DE" stroke="#3B6D11"/>
+      <text x="278" y="72" text-anchor="middle" font-size="13" font-weight="600" fill="#27500A">Excel</text>
+    </g>
+    <g class="f1">
+      <rect x="236" y="136" width="84" height="64" rx="10" fill="#161B22" stroke="#30363D"/>
+      <rect x="250" y="172" width="10" height="16" rx="2" fill="#85B7EB"/>
+      <rect x="266" y="160" width="10" height="28" rx="2" fill="#378ADD"/>
+      <rect x="282" y="166" width="10" height="22" rx="2" fill="#85B7EB"/>
+      <rect x="298" y="150" width="10" height="38" rx="2" fill="#185FA5"/>
+    </g>
+  </g>
+</svg>
